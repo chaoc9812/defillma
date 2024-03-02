@@ -1,2 +1,7 @@
-# defillma
-defillma
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xea41A6A17Eb08D888552B3Fc57B96D7978b1932D'
+quorum: 1
+
